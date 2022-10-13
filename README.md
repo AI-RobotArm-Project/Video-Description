@@ -17,6 +17,6 @@ Library : OpenCV
 
 Object Detection Algorithm : YOLO_V4
 
-내용 및 특징
-- 제조 효율성, 안전성 증가
-- 휴먼 에러 예방
+Content and Features
+- Increase manufacturing efficiency, safety
+- Prevention of Human Errors
