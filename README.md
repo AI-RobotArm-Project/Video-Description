@@ -9,7 +9,7 @@ H/W : STM32F429ZI, Raspberry pi 4
 System : Rasbian OS, Windows
 
 Language : C, Python
-Tool : CubeMX, Keil, VScode, 
+Tool : CubeMX, Keil, VScode
 Library : OpenCV
 Object Detection Algorithm : YOLO_V4
 
