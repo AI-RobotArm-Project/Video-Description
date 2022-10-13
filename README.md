@@ -6,11 +6,15 @@ https://user-images.githubusercontent.com/95339307/195489436-2f4b2841-fe0e-4917-
 
 
 H/W : STM32F429ZI, Raspberry pi 4
+
 System : Rasbian OS, Windows
 
 Language : C, Python
+
 Tool : CubeMX, Keil, VScode
+
 Library : OpenCV
+
 Object Detection Algorithm : YOLO_V4
 
 내용 및 특징
